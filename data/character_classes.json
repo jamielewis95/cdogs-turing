@@ -1,0 +1,159 @@
+{
+  "Version": 2,
+  "Characters": [
+    {
+      "Name": "Jones",
+      "HeadPics": {
+        "Type": "Directional",
+        "Sprites": "chars/heads/jones"
+      }
+    },
+    {
+      "Name": "Ice",
+      "HeadPics": {
+        "Type": "Directional",
+        "Sprites": "chars/heads/ice"
+      }
+    },
+    {
+      "Name": "Ogre",
+      "HeadPics": {
+        "Type": "Directional",
+        "Sprites": "chars/heads/ogre"
+      }
+    },
+    {
+      "Name": "Dragon",
+      "HeadPics": {
+        "Type": "Directional",
+        "Sprites": "chars/heads/dragon"
+      }
+    },
+    {
+      "Name": "WarBaby",
+      "HeadPics": {
+        "Type": "Directional",
+        "Sprites": "chars/heads/warbaby"
+      }
+    },
+    {
+      "Name": "Bug-eye",
+      "HeadPics": {
+        "Type": "Directional",
+        "Sprites": "chars/heads/bugeye"
+      }
+    },
+    {
+      "Name": "Smith",
+      "HeadPics": {
+        "Type": "Directional",
+        "Sprites": "chars/heads/smith"
+      }
+    },
+    {
+      "Name": "Ogre Boss",
+      "HeadPics": {
+        "Type": "Directional",
+        "Sprites": "chars/heads/ogreboss"
+      }
+    },
+    {
+      "Name": "Grunt",
+      "HeadPics": {
+        "Type": "Directional",
+        "Sprites": "chars/heads/grunt"
+      }
+    },
+    {
+      "Name": "Professor",
+      "HeadPics": {
+        "Type": "Directional",
+        "Sprites": "chars/heads/professor"
+      }
+    },
+    {
+      "Name": "Snake",
+      "HeadPics": {
+        "Type": "Directional",
+        "Sprites": "chars/heads/snake"
+      }
+    },
+    {
+      "Name": "Wolf",
+      "HeadPics": {
+        "Type": "Directional",
+        "Sprites": "chars/heads/wolf"
+      }
+    },
+    {
+      "Name": "Bob",
+      "HeadPics": {
+        "Type": "Directional",
+        "Sprites": "chars/heads/bob"
+      }
+    },
+    {
+      "Name": "Mad bug-eye",
+      "HeadPics": {
+        "Type": "Directional",
+        "Sprites": "chars/heads/madbugeye"
+      }
+    },
+    {
+      "Name": "Cyborg",
+      "HeadPics": {
+        "Type": "Directional",
+        "Sprites": "chars/heads/cyborg"
+      }
+    },
+    {
+      "Name": "Robot",
+      "HeadPics": {
+        "Type": "Directional",
+        "Sprites": "chars/heads/robot"
+      }
+    },
+    {
+      "Name": "Lady",
+      "HeadPics": {
+        "Type": "Directional",
+        "Sprites": "chars/heads/lady"
+      }
+    },
+    {
+      "Name": "Cyber Jones",
+      "HeadPics": {
+        "Type": "Directional",
+        "Sprites": "chars/heads/cyberjones"
+      }
+    },
+    {
+      "Name": "Cyber Smith",
+      "HeadPics": {
+        "Type": "Directional",
+        "Sprites": "chars/heads/cybersmith"
+      }
+    },
+    {
+      "Name": "Cyber WarBaby",
+      "HeadPics": {
+        "Type": "Directional",
+        "Sprites": "chars/heads/cyberwar"
+      }
+    },
+    {
+      "Name": "Freeze",
+      "HeadPics": {
+        "Type": "Directional",
+        "Sprites": "chars/heads/freeze"
+      }
+    },
+    {
+      "Name": "Goggles",
+      "HeadPics": {
+        "Type": "Directional",
+        "Sprites": "chars/heads/goggles"
+      }
+    }
+  ]
+}
