@@ -8,6 +8,8 @@ in co-op and deathmatch modes. Customize your player, choose from many weapons,
 and blast, slide and slash your way through over 100 user-created campaigns.
 Have fun!
 
+This is my game now!
+
 [Releases and release notes](https://github.com/cxong/cdogs-sdl/releases)
 
 For more information about the original C-Dogs read [`original\_readme.txt`](https://raw.githubusercontent.com/cxong/cdogs-sdl/master/doc/original_readme.txt).
