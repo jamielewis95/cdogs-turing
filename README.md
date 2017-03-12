@@ -1,4 +1,4 @@
-![C-Dogs SDL](http://cxong.github.io/cdogs-sdl/images/title.png)
+![C-Dogs SDL (Modified)](http://cxong.github.io/cdogs-sdl/images/title.png)
 ==========
 [![Build Status](https://travis-ci.org/cxong/cdogs-sdl.svg?branch=master)](https://travis-ci.org/cxong/cdogs-sdl)
 [![Build Status (Windows)](https://ci.appveyor.com/api/projects/status/github/cxong/cdogs-sdl?svg=true)](https://ci.appveyor.com/project/cxong/cdogs-sdl)
