@@ -1,4 +1,3 @@
-// test
 /*
     C-Dogs SDL
     A port of the legendary (and fun) action/arcade cdogs.
